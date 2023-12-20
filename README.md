@@ -1,1 +1,1 @@
-**-> dist -> run (sveikinimas.exe || [your_name].exe)**
+**-> dist -> run your_name.exe)**
